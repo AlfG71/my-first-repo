@@ -9,3 +9,4 @@ Important steps for Git workflow:
 5. Commit changes to version history
 6. View previous changes with git log  
 
+# git is cool
